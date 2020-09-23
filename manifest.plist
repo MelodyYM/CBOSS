@@ -14,16 +14,12 @@
 					<string>http://www.jchis.com/shcreating/cboss/CreatingCEP.ipa</string>
 				</dict>
 				<dict>
-					<key>needs-shine</key>
-					<true/>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
 					<string>http://www.jchis.com/shcreating/cboss/Icon-57.png</string>
 				</dict>
 				<dict>
-					<key>needs-shine</key>
-					<true/>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
@@ -33,15 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.creatingcboss</string>
+				<string>shcreatingCEP</string>
 				<key>bundle-version</key>
-				<string>6.5</string>
+				<string>8.1.2</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>App</string>
 				<key>title</key>
-				<string>CBoss</string>
+				<string>CreatingCEP</string>
 			</dict>
 		</dict>
 	</array>
